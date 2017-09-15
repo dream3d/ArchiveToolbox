@@ -1,0 +1,7 @@
+ <!DOCTYPE RCC>
+ <RCC version="1.0">
+ <qresource>
+ <file>ArchiveToolbox/ArchiveToolboxLicense.txt</file>
+ <file>ArchiveToolbox/ArchiveToolboxDescription.txt</file>
+ </qresource>
+ </RCC>
